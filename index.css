@@ -1,0 +1,61 @@
+.music1, .music2, .music3, .music4, .music5, caption {
+    display: block;
+    position: relative;
+    left: 445px;
+    margin-bottom: 40px;
+    caption-side: top;
+    
+}
+p, h1 {
+    width: 600px;
+    text-align: center;
+    position: relative;
+    left: 300px;
+
+}
+
+.music1 {
+    
+    margin-top: 30px;
+}
+p.head {
+    border-bottom: 3px dotted rgb(207, 0, 248);
+    padding-bottom: 18px;
+}
+
+
+body {
+    background:linear-gradient(136deg ,rgb(0, 255, 221) 10%,  rgb(0, 255, 200) 20%,  rgb(0, 255, 170) 30%, rgb(0, 255, 149) 40%,  rgb(0, 255, 106) 50%, rgb(0, 255, 76) 60%,  rgb(0, 255, 55) 70%,  
+    rgb(0, 255, 21) 80%,  rgb(166, 255, 0) 90%, rgb(208, 255, 0) 100% )
+}
+
+p.p1 {
+    position: relative;
+    bottom: 492px;
+    text-align: center;
+    margin-top: 12px;
+}
+
+p.p2 {
+    position: relative;
+    bottom: 432px;
+    text-align: center;
+}
+
+p.p3 {
+    position:relative;  
+    bottom: 372px;
+    text-align: center;
+}
+
+p.p4 {
+    position: relative;
+    bottom: 310px;
+    text-align: center;
+}
+
+p.p5 {
+    position: relative;
+    bottom: 249px;
+    text-align: center;
+}
